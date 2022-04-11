@@ -5,7 +5,7 @@ import SliderCards from "./SliderCards";
 import Partner from "./components/Partner";
 import News from "./News";
 import Banner from "./components/Banner";
-import Fotter from "./components/Fotter";
+import Footer from "./components/Footer";
 
 
 function App() {
@@ -18,7 +18,7 @@ function App() {
      <Partner />
      <News />
      <Banner />
-     <Fotter />
+     <Footer />
     
 
      

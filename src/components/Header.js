@@ -9,8 +9,8 @@ const[modal,setModal] = useState(false)
 
   return (
     <div className='bg-backcolor text-white '>
-      <div className='container h-20 mx-auto px-16 flex justify-between items-center' >
-        <div className="logo">
+      <div className='container h-20 mx-auto md:px-16 flex justify-between items-center' >
+        <div className="logo ml-7 md:ml-0">
           <a href="#">
             <img src="https://wp.nkdev.info/redlens/dark/wp-content/themes/redlens/assets/images/logo-night.svg" alt="" />
 

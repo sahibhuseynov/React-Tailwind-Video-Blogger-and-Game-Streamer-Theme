@@ -16,8 +16,8 @@ const Crads = () => {
     return (
         <div className=' relative '>
             <div className='relative h-[1050px]'>
-                <h2 className='text-latest text-[300px]  text-center font-bold mt-12'>LATEST</h2>
-                <div className='container  absolute top-64  mx-auto items-center justify-center flex flex-wrap gap-x-8 gap-y-8'>
+                <h2 className='text-latest text-[90px] md:text-[300px]  text-center font-bold mt-12'>LATEST</h2>
+                <div className='container  absolute top-40 md:top-64  mx-auto items-center justify-center flex flex-wrap gap-x-8 gap-y-8'>
                     {cards.length && cards.map(card => (
                         <div className='flex flex-col mb-8 '>
                             <img className='w-[360px] h-[202px] object-cover mb-4 transition cursor-pointer duration-300 hover:scale-105' src={card.image} alt="" />
