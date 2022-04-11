@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "GHOST OF TSUSHIMA",
+        "image": "https://wp.nkdev.info/redlens/dark/wp-content/uploads/sites/2/2020/09/video-2-300x169.jpg"
+    },
+    {
+        "id": 2,
+        "title": "DEATH STRANDING",
+        "image": "https://wp.nkdev.info/redlens/dark/wp-content/uploads/sites/2/2020/09/video-5-300x169.jpg"
+    },
+    {
+        "id": 3,
+        "title": "VALORANT",
+        "image": "https://wp.nkdev.info/redlens/dark/wp-content/uploads/sites/2/2020/09/video-3-300x169.jpg"
+    },
+    {
+        "id": 4,
+        "title": "HALF-LIFE: ALYX",
+        "image": "https://wp.nkdev.info/redlens/dark/wp-content/uploads/sites/2/2020/09/video-1-300x169.jpg"
+    },
+    {
+        "id": 5,
+        "title": "NIOH 2",
+        "image": "https://wp.nkdev.info/redlens/dark/wp-content/uploads/sites/2/2020/09/video-4-300x169.jpg"
+    },
+    {
+        "id": 5,
+        "title": "RED DEAD REDEMPTION 2",
+        "image": "https://wp.nkdev.info/redlens/dark/wp-content/uploads/sites/2/2020/09/video-6-300x169.jpg"
+    }
+]
